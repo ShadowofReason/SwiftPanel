@@ -1,6 +1,6 @@
 # SwiftPanel
          
-         
+        test 
          Install SwiftPanel on Centos
          wget https://raw.githubusercontent.com/ch0sys/SwiftPanel/master/install.sh
          chmod +x *
